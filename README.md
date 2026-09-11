@@ -3,3 +3,6 @@ PhDAI 732 Group Project 1
 
 NYC Green Taxicab datasets obtained from 
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+ML-100k dataset obtained from 
+https://grouplens.org/datasets/movielens/100k/
